@@ -1,0 +1,6 @@
+---
+applications:
+ - name: clappy
+   env:
+     GOVERSION: go1.8
+     GOPACKAGENAME: clappy
